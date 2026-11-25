@@ -22,5 +22,4 @@
 ## Шинэчлэлт · Updates
 
 Баталгаажсан мэдээлэл хараахан хадгалаагүй. Хэрэгтэй үед огноо болон юуг баталсныг тэмдэглэнэ. Чатын бичлэг болгож болохгүй.
-*No confirmed information saved yet. When useful, note the date and what the user confirmed. Do not turn this section into a t
-ranscript.*
+*No confirmed information saved yet. When useful, note the date and what the user confirmed. Do not turn this section into a transcript.*
